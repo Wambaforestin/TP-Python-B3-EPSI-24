@@ -1,7 +1,7 @@
 def several_zeros():
     return [0]*10 
 
-def several_zeros_custom(nb_zeros):
+def several_zeros_custom(nb_zeros=10):
     return [0]*nb_zeros 
 
 def matrix(rows, cols):
