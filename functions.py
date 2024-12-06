@@ -1,5 +1,5 @@
 def several_zeros():
-    return [0]*10 # [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    return [0]*10 
 
 def several_zeros_custom(nb_zeros):
     return [0]*nb_zeros 
